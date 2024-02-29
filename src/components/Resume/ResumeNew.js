@@ -9,7 +9,7 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Particle />
         <Row className="resume">
-          <img src={Curriculo} alt="Curriculo" style={{ width: "45%", height: "auto" }} />
+          <img src={Curriculo} alt="Curriculo" style={{ width: "72%", height: "auto" }} />
         </Row>
       </Container>
     </div>
